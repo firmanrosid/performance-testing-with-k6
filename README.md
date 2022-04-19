@@ -42,4 +42,4 @@ export default function() {
 };
 ```
 
-The script details and how we can extend and configure it will be explained below, but for now, simply save the above snippet as a `script.js` file somewhere on your system. Assuming that you've [installed k6](#install) correctly, on Linux and Mac, you can run the saved script by executing `k6 run script.js` from the same folder. For Windows, the command is almost the same - `k6.exe run script.js`.
+The script details and how we can extend and configure it will be explained below, but for now, simply save the above snippet as a `listUser.js` file somewhere on your system. Assuming that you've [installed k6](#install) correctly, on Linux and Mac, you can run the saved script by executing `k6 run listUser.js` from the same folder. For Windows, the command is almost the same - `k6.exe run listUser.js`.
